@@ -10,8 +10,8 @@ namespace BrainBowTestWebAPI.Models
 {
     public class RoviApi
     {
-        private const string RoviAppId = "7fk63kqh6es89qh75gvn6b9a";
-        private const string RoviAppSecretKey = "tPbdSg4AWG";
+        private const string RoviAppId = "7mwb58acwtu5tcvuf2pqgdsj";
+        private const string RoviAppSecretKey = "qXNhMhhrur";
 
         public JObject GetMovieByKeyword(string keyword)
         {
